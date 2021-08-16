@@ -1,6 +1,9 @@
 # covid19
 
-A new Flutter project.
+Aplicativo que mostra as estastísticas de casos / mortes de covid19 nos estados brasileiros.
+Desenvolvido utilizando GetX.
+
+link da api: https://covid19-brazil-api.vercel.app/api/report/v1
 
 ## Getting Started
 
